@@ -1,1 +1,1 @@
-# my-recipes
+This is the readme.md file for my-recipes, part of the Odin Project
